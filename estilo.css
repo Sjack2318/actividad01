@@ -35,3 +35,7 @@ img {
 .linea:nth-child(2) {
     color: orangered;
 }
+
+.texto2 {
+    color: blueviolet;
+}
